@@ -73,7 +73,7 @@
 ### Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman,jira" />
 </p>
 
 ---
@@ -112,17 +112,11 @@
 * REST APIs and database operations
 * Node.js, Express.js, MySQL
 
-### 📅 Appointment Booking System
-
-* Online appointment scheduling
-* User and admin management
-* Full Stack Web Development
-
 ---
 
 ## 🏆 Achievements
 
-* ✅ Solved 300+ DSA Problems
+* ✅ Solved 200+ DSA Problems
 * ✅ Built Multiple Full Stack Projects
 * ✅ Strong Understanding of OOP Concepts
 * ✅ Experience with Git & GitHub
